@@ -3,3 +3,4 @@ second line in origin master
 third line in origin master (before push branches)
 first line in new_branch
 second line in new_branch
+third line in new_branch
