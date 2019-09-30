@@ -4,3 +4,4 @@ first line in new_branch
 first line in next_new_branch
 second commit in next_new_branch
 first line in new_branch
+second commit in new_branch
